@@ -1,4 +1,4 @@
-# Hello there! 👋
+## Hello there! 👋
 
 I'm **Pigia**, an indie game developer based in Italy.
 
@@ -16,4 +16,4 @@ Fun Facts:
 * My coding is powered by coke
 * **Hobbies:** manga, videogames, guitar
 
-Email: [amsalvadori49@gmail.com]
+Email: amsalvadori49@gmail.com
