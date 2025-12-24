@@ -1,6 +1,6 @@
 # Hello there! 👋
 
-I'm **[Pigia]**, an indie game developer based in Italy.
+I'm **Pigia**, an indie game developer based in Italy.
 
 I am a lover of programming and game design, that is, the structure of every video game.
 
