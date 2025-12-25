@@ -13,7 +13,7 @@ For me, video games are not just a passion. They are a true art form.
 
 Fun Facts:
 * I’m a huge music lover, expecialy metal music
-* My coding is powered by coke
-* **Hobbies:** manga, videogames, guitar
+* My coding is powered by coke and coffee 
+* **Hobbies:** manga, videogames, guitar and gdr
 
 Email: amsalvadori49@gmail.com
