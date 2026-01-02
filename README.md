@@ -7,7 +7,7 @@ I am a lover of programming and game design, that is, the structure of every vid
 Currently, I’m diving deep into the **Godot Game Engine** and the **GDScript**. 
 I often find myself creating small games for small game jams with the aim of having fun and learning more about game development.
 
-My favorite tools are godot, asesprite, goxel, and milanote
+My favorite tools are godot, libresprite, goxel, and milanote
 
 For me, video games are not just a passion. They are a true art form.
 
